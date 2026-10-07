@@ -1,4 +1,5 @@
-# About Me & My Town — React Assignment
+# Mohammad Alalouh - A00454272
+# About Me & My Town — React Assignment 
 
 A two-view React application created for the assignment rubric. The app includes an **About Me** page and a **My Town** page for Halifax, Nova Scotia. The My Town page loads live weather data, conditionally displays a weather image based on Celsius temperature, and lets the user switch between Celsius and Fahrenheit.
 
