@@ -1,0 +1,39 @@
+<svg width="900" height="450" viewBox="0 0 900 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#BFE7F5"/>
+      <stop offset="1" stop-color="#ECF8F5"/>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#88C9D8"/>
+      <stop offset="1" stop-color="#6CB5C7"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="450" fill="url(#sky)"/>
+  <circle cx="748" cy="85" r="42" fill="#FFD166" opacity="0.9"/>
+  <path d="M0 220C100 190 185 203 260 218C360 238 424 185 522 201C625 218 710 214 900 177V450H0V220Z" fill="#9CC6A9"/>
+  <path d="M0 310C170 278 300 300 440 296C616 290 735 272 900 294V450H0V310Z" fill="url(#water)"/>
+  <rect x="88" y="218" width="78" height="92" rx="3" fill="#D65F4A"/>
+  <rect x="168" y="196" width="86" height="114" rx="3" fill="#F0C36E"/>
+  <rect x="257" y="230" width="72" height="80" rx="3" fill="#F5F3E8"/>
+  <rect x="334" y="174" width="92" height="136" rx="3" fill="#667C86"/>
+  <rect x="432" y="210" width="76" height="100" rx="3" fill="#C06A4D"/>
+  <rect x="514" y="188" width="110" height="122" rx="3" fill="#E9E4D2"/>
+  <rect x="631" y="222" width="72" height="88" rx="3" fill="#6B8B76"/>
+  <path d="M364 174L380 118L396 174" fill="#536C76"/>
+  <rect x="377" y="105" width="6" height="18" fill="#536C76"/>
+  <rect x="110" y="242" width="14" height="18" fill="#7DB6C2"/>
+  <rect x="132" y="242" width="14" height="18" fill="#7DB6C2"/>
+  <rect x="190" y="220" width="16" height="19" fill="#7DB6C2"/>
+  <rect x="214" y="220" width="16" height="19" fill="#7DB6C2"/>
+  <rect x="356" y="207" width="16" height="22" fill="#9FC5D0"/>
+  <rect x="385" y="207" width="16" height="22" fill="#9FC5D0"/>
+  <rect x="456" y="236" width="16" height="20" fill="#8FB8C2"/>
+  <rect x="542" y="214" width="18" height="22" fill="#8FB8C2"/>
+  <rect x="574" y="214" width="18" height="22" fill="#8FB8C2"/>
+  <path d="M727 300H828L798 319H705L727 300Z" fill="#F8FAF9"/>
+  <path d="M744 300L765 260H793L809 300" fill="#F8FAF9"/>
+  <rect x="773" y="248" width="5" height="52" fill="#3D5B63"/>
+  <path d="M778 250L819 275H778V250Z" fill="#2A9D68"/>
+  <path d="M18 352C124 335 206 356 302 347C410 337 519 344 603 335C689 326 780 339 891 321" stroke="#D8F0F3" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
+</svg>
