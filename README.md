@@ -128,3 +128,7 @@ The Fahrenheit value is calculated with:
 ```text
 °F = (°C × 9/5) + 32
 ```
+
+## AI Usage
+
+I used Chat Gpt to get a free weather api, in addition to css styles.
